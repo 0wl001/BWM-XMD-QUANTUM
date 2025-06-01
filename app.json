@@ -1,9 +1,9 @@
 
 {
-  "name": "BWM-XMD-QUANTUM",
+  "name": "//---[.tœ.ñ.y._xMd. ]---//",
   "description": "Best WhatsApp bot developed by Ibrahim Adams",
   "keywords": ["bot", "node", "baileys", "whatsapp"],
-  "logo": "https://files.catbox.moe/2kcb4s.jpeg",
+  "logo": "https://files.catbox.moe/26nixx.jpg",
   "repository": "https://github.com/ekitale/maths-project",
   "success_url": "/",
   "stack": "heroku-24",
@@ -50,12 +50,12 @@
     },
     "BOT_IMAGE": {
       "description": "Image URL for your bot menu",
-      "value": "https://files.catbox.moe/h2ydge.jpg",
+      "value": "https://files.catbox.moe/26nixx.jpg",
       "required": false
     },
     "PUBLIC_MODE": {
       "description": "Type yes for public mode or no for private mode",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "HEROKU_API_KEY": {
@@ -75,7 +75,7 @@
     },
    "STATUS_REACT_EMOJIS": {
       "description": "Enter your auto like status emojis",
-      "value": "🚀,🌎",
+      "value": "😜,🥰,🤣",
       "required": false 
     },
    "AUTO_REACT_STATUS": {
@@ -85,7 +85,7 @@
     },
     "OWNER_NAME": {
       "description": "Owner name",
-      "value": "Ibrahim Adams",
+      "value": ".ñ.th.ø.h.ñ.ì.øh.&",
       "required": false
     },
     "SESSION_ID": {
