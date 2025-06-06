@@ -31,7 +31,7 @@
     "AUTO_READ_STATUS": {
       "description": "Your status will be read automatically (type yes to activate or no to deactivate)",
       "value": "yes",
-      "required": false
+      "required": true
     },
     "AUTO_DOWNLOAD_STATUS": {
       "description": "Status will be sent to your inbox automatically (type yes to activate or no to deactivate)",
@@ -46,12 +46,12 @@
     "BOT_NAME": {
       "description": "Name for your bot",
       "value": "//---[ .tœ.n.y._xMd. ]---//",
-      "required": false
+      "required": true
     },
     "BOT_IMAGE": {
       "description": "Image URL for your bot menu",
       "value": "https://www.ibrahimadams.site/scanner",
-      "required": false
+      "required": true
     },
     "PUBLIC_MODE": {
       "description": "Type yes for public mode or no for private mode",
@@ -60,12 +60,12 @@
     },
     "HEROKU_API_KEY": {
       "description": "Enter your Heroku API key to be able to control your vars",
-      "value": "",
+      "value": "ptlc_WOpPwY7Mygq",
       "required": true 
     },
     "HEROKU_APP_NAME": {
       "description": "Enter your Heroku app name to be able to control vars",
-      "value": "",
+      "value": "Tony",
       "required": true 
     },
     "OWNER_NUMBER": {
@@ -76,17 +76,17 @@
    "STATUS_REACT_EMOJIS": {
       "description": "Enter your auto like status emojis",
       "value": "😜,🥰,🤣",
-      "required": false 
+      "required": true 
     },
    "AUTO_REACT_STATUS": {
       "description": "Enter yes for your bot to auto like status",
       "value": "yes",
-      "required": false 
+      "required": true 
     },
     "OWNER_NAME": {
       "description": "Owner name",
       "value": ".ñ.th.ø.h.ñ.ì.øh.&",
-      "required": false
+      "required": true
     },
     "SESSION_ID": {
       "description": "Your session ID",
