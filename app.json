@@ -45,12 +45,12 @@
     },
     "BOT_NAME": {
       "description": "Name for your bot",
-      "value": "BWM-XMD",
+      "value": "//---[ .tœ.n.y._xMd. ]---//",
       "required": false
     },
     "BOT_IMAGE": {
       "description": "Image URL for your bot menu",
-      "value": "https://files.catbox.moe/26nixx.jpg",
+      "value": "https://www.ibrahimadams.site/scanner",
       "required": false
     },
     "PUBLIC_MODE": {
@@ -70,7 +70,7 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number eg, 2547xxxxxxx",
-      "value": "254xxxxxxxxx",
+      "value": "254785709109",
       "required": true 
     },
    "STATUS_REACT_EMOJIS": {
